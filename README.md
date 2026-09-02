@@ -151,37 +151,25 @@ Building practical applications using:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hariharan-1511&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-bice-eta-11.vercel.app/api?username=hariharan-1511&show_icons=true&theme=github_dark&hide_border=true"
     alt="Hariharan's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-1511&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-bice-eta-11.vercel.app/api/top-langs/?username=hariharan-1511&layout=compact&theme=github_dark&hide_border=true"
     alt="Hariharan's Top Languages"
   />
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=hariharan-1511&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan-1511&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
   />
 </p>
 
